@@ -1,0 +1,23 @@
+﻿{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "GameplaySystems",
+  "Description": "",
+  "Category": "Other",
+  "CreatedBy": "Szymon Chryń",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "GameplaySystems",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
